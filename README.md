@@ -1,5 +1,8 @@
 # Shtei: React project
 
+![Demo Screenshot](./public/demo/screenshot.PNG)
+![Promotion Screenshot](./public/demo/screenshot_promote.PNG)
+
 Object of the game: unite your queen/sister (Shi) with your king/brother(Tei) by placing queen adjacent to king while having the same, or more attackers on your king. If your queen is taken, uniting cannot occur, and you lose instantly.
 
 Whoever has more attackers on a king controls the movement of that king. If the number of attackers are the same, the king is controlled by it's intrinsic colour's team.
